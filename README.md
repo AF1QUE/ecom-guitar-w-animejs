@@ -1,1 +1,1 @@
-# ecom-guitar-w-animejs
+# Expanding Grid Item Animation
